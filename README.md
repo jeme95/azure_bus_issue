@@ -8,4 +8,6 @@ To run that, run the command ``` ng test```
 
 A screenshot of the run is below
 
+A sender is created, and then it hangs where the message is supposed to be sent
+
 ![image](https://user-images.githubusercontent.com/49294268/202297404-715b1746-4ced-4ee3-8afc-154b7b6131ed.png)
